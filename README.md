@@ -67,7 +67,7 @@ Analyzed customer payment behavior across multiple payment methods.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
