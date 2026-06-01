@@ -123,6 +123,11 @@ XLOOKUP and calculated business logic columns were used to create a consolidated
 - Advanced business KPI tracking
 - Automated reporting workflow
 
+
+
+## 🔗 Live Interactive Dashboard
+Click below to explore the live Excel dashboard:
+https://gitam0-my.sharepoint.com/:x:/g/personal/skotha_student_gitam_edu/IQDDdyCOoacERKyqT_ED6B4QAdTFTEbe6zPFg0TjpE7VmNg?e=ahc9kE
 ---
 
 ## 👨‍💻 Author
